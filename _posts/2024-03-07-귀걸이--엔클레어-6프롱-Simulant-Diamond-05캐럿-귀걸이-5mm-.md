@@ -1,0 +1,352 @@
+---
+layout: post
+title: "귀걸이 추천 TOP10 -  엔클레어 6프롱 Simulant Diamond 0.5캐럿 귀걸이 5mm "
+author: smartmall89
+categories: shopping
+tags: [Top10, shopping]
+pin: true
+---
+
+> ##### 해당 게시물에서는 [**분석도구**](https://itemscout.io/)를 이용하여 **성별**, **연령별** 등의 데이터를 바탕으로 [**귀걸이**](https://link.coupang.com/a/bniCbs)들을 추천해드리고 있습니다.
+
+<style>
+    /* 기본 스타일 */
+    .product-box {
+        border: 1px solid #ddd;
+        padding: 20px;
+        border-radius: 10px;
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+    }
+
+	h1 {
+        font-size: 2.2em; /* 기본 글꼴 크기 */
+	}
+	
+	h3 {
+        font-size: 1.3em; /* 기본 글꼴 크기 */
+	}
+	
+    .product-box img {
+        width: 250px; /* 이미지가 부모 요소의 100%를 차지하도록 설정 */
+        height: auto;
+        border-radius: 10px;
+    }
+
+    /* 미디어 쿼리 추가 */
+    @media screen and (max-width: 600px) {
+        .product-box {
+            font-size: 15px; /* 작은 크기로 조절 */
+            flex-direction: column; /* 화면이 작아질 때 세로로 정렬 */
+            align-items: center; /* 가운데 정렬을 위해 추가 */
+        }
+        .product-box img {
+            max-width: 100%; /* 이미지의 최대 크기를 100%로 설정 (원래 크기로 확대) */
+            width: 250px; /* 이미지의 크기를 원래 크기로 설정 */
+            height: auto;
+        }
+        
+        h1 {
+        font-size: 1.8em; /* 기본 글꼴 크기 */
+		}
+		
+        h3{
+        font-size: 1.2em; /* 기본 글꼴 크기 */
+		}
+    }
+</style>
+<div>
+
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7595194394&traceid=V0-153&itemId=20078784969&vendorItemId=87174409971" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1927568860652566-797d19d7-7760-4ec6-9eac-9cb5af2a8726.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        1.  엔클레어 6프롱 Simulant Diamond 0.5캐럿 귀걸이 5mm 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">42%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">11,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 167개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7595194394&traceid=V0-153&itemId=20078784969&vendorItemId=87174409971" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7278766133&traceid=V0-153&itemId=18579034204&vendorItemId=85715746457" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail7.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/43f1/c0441d70709600fbea35d9d4d8c92f1e3de6a064ae8e8f24ef2f394d58c5.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        2.  미다미 [6P세트] 실버925 은침 큐빅 귀걸이 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">17%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">8,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 104개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7278766133&traceid=V0-153&itemId=18579034204&vendorItemId=85715746457" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7420364610&traceid=V0-153&itemId=19247263569&vendorItemId=86927058708" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/ca79/5e5e2a7c5a216b89d0debe61111c61972d70d9e57e168b11131dd5e27087.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        3.  ANYOU 14k귀걸이 리본패션귀걸이 EHR1184 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">42%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">16,830원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 99개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7420364610&traceid=V0-153&itemId=19247263569&vendorItemId=86927058708" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=4631901552&traceid=V0-153&itemId=5751815937&vendorItemId=73050440490" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2020/12/16/8/5/4fd26294-16db-43f1-949b-8e4ac861f8a4.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        4.  뷰랩 프리미엄 한달 미러박스 실버 귀걸이 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">17,950원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 832개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=4631901552&traceid=V0-153&itemId=5751815937&vendorItemId=73050440490" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7413410292&traceid=V0-153&itemId=19213732510&vendorItemId=88470431602" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail8.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/nuak5yln/a31cf6efff42421e939e3dd32bca2a31.png" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        5.  아르티카 여성용 웨이브 링 귀걸이 골드 실버 세트 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">57%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">18,410원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 414개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7413410292&traceid=V0-153&itemId=19213732510&vendorItemId=88470431602" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7316877573&traceid=V0-153&itemId=20078784493&vendorItemId=87174409624" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/1927568773720547-149b6b25-3399-42c4-a61e-c89ec7094962.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        6.  엔클레어 6프롱 Simulant Diamond 1캐럿 귀걸이 6mm 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">43%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">13,300원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 662개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7316877573&traceid=V0-153&itemId=20078784493&vendorItemId=87174409624" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7865385692&traceid=V0-153&itemId=21473112450&vendorItemId=88822964195" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail10.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/b7ce/182f1d99ca1ecb330784cc5389da1628ac794d176865b9e5b8da4c18db64.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        7.  ANYOU 일주일 7종 여성용 프리미엄 귀걸이 선물세트 여자 데일리 무알러지 순은침 패션귀걸이 발렌타인데이 선물 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">52,600원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 1개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7865385692&traceid=V0-153&itemId=21473112450&vendorItemId=88822964195" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=304302737&traceid=V0-153&itemId=957690019&vendorItemId=85198795639" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/1de9/575085a3dc391db92316b3c7955434f2889a09d47e9fc10d123cf2346afc.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        8.  볼라레 14K귀걸이 미러볼 귀걸이 귀찌 GF103 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328"></span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">15,760원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 745개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=304302737&traceid=V0-153&itemId=957690019&vendorItemId=85198795639" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7662751089&traceid=V0-153&itemId=20419205730&vendorItemId=88491229481" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail9.coupangcdn.com/thumbnails/remote/230x230ex/image/rs_quotation_api/bdb9yvcd/2b7845af378c42dea842b974465cbae3.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        9.  아르티카 여성용 커브링 귀걸이 2종세트 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">37%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">15,900원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 4.5
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 86개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7662751089&traceid=V0-153&itemId=20419205730&vendorItemId=88491229481" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        
+        <div class="product-container product-box">
+            <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7095313991&traceid=V0-153&itemId=17693624924&vendorItemId=88376403353" target="_blank" style="text-decoration: none; color: inherit;">
+                <div style="flex-shrink: 0; text-align: left;">
+                    <img src="https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/28e9/022d570c2def3d8ec031c0f12eb65f9355680b09c162081151bf675d6ec3.jpg" width="300" height="300" style="object-fit: cover;">
+                </div>
+                <div style="margin-left: 20px; text-align: left; flex: 1;">
+                    <h3 style="margin-top: 0; margin-bottom: 20px; color: #3366cc;">
+                        10.  ANYOU 일주일 7종 여성용 프리미엄 귀걸이 장미 선물세트 여자 데일리 무알러지 순은침 패션귀걸이 
+                    </h3>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 할인율: <span style="color:#E61328">29%</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 가격: <span style="color: #E61328;">26,800원</span>
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 별점: 5.0
+                    </p>
+                    <p style="line-height: 1; color: #555;">
+                        <span style="color: #4169E1;">★</span> 리뷰수: 103개
+                    </p>
+                    <a href="https://link.coupang.com/re/AFFSDP?lptag=AF2070826&subid=githubcoopang&pageKey=7095313991&traceid=V0-153&itemId=17693624924&vendorItemId=88376403353" target="_blank" style="display: inline-block; padding: 10px 20px; 
+                    background-color: #007BFF; color: #fff; border-radius: 5px; text-decoration: none; margin-top: 5px;">
+                        [상품 더보기]
+                    </a>
+                </div>
+            </a>
+        </div>
+        </div>
+<br> [📢 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.](https://link.coupang.com/a/bniCbs){: .center}
